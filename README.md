@@ -57,20 +57,20 @@ actor Counter {
 
 IC部署完成后，点击显示链接进入网页
 
-![image-20220911154938828](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911154938828.png)
+![](./images/1.jpg)
 
 打开另一个页面，进入currentValue的操作Candid UI
 
-![image-20220911155058545](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911155058545.png)
+![](./images/2.jpg)
 
 调用自增方法increment()后刷新显示页面，发现currentValue变为1
 
-![image-20220911155310221](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911155310221.png)
+![](./images/3.jpg)
 
-![image-20220911155330619](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911155330619.png)
+![](./images/4.jpg)
 
 调用设置数字方法set()，传入参数520后刷新页面，发现currentValue变为520
 
-![image-20220911155505070](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911155505070.png)
+![](./images/5.jpg)
 
-![image-20220911155520505](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220911155520505.png)
+![](./images/6.jpg)
